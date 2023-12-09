@@ -21,6 +21,7 @@ var_dump( isset($clientes) );
 var_dump( isset($clientes2) );
 var_dump( isset($clientes3) );
 
+// Isset - permite revisar si una propiedad de un arreglo asociativo existe
 var_dump( isset($cliente['nombre']) );
 var_dump( isset($cliente['codigo']) );
 
