@@ -50,7 +50,7 @@ $prueba = [
 ];
 
 foreach( $prueba as $key => $valor ):
-  echo $key . " - " $valor . "<br>";
+  echo $key . " - " . $valor . "<br>";
 endforeach;
 
 
